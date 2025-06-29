@@ -54,3 +54,12 @@ git clone https://github.com/Himaghna-Minfy/recipe-finder.git
 cd recipe-finder
 npm install
 npm start
+```
+
+![image](https://github.com/user-attachments/assets/edccbd1f-d4fb-4d40-b379-611f538b12c5)
+
+![image](https://github.com/user-attachments/assets/6f98742a-3f08-47a0-b0c4-56487d1a9517)
+
+![image](https://github.com/user-attachments/assets/069534d1-52f8-4196-a172-1a8e39558e96)
+
+![image](https://github.com/user-attachments/assets/092094cb-4cda-44af-b27d-d0cda6b97578)
